@@ -1,0 +1,5 @@
+{
+  "name": "Student Paisa Tracker",
+  "description": "A comprehensive MERN-inspired personal expense tracker designed specifically for students to manage monthly budgets, track daily kharcha (expenses), and monitor borrowed/lent money with detailed visual analytics.",
+  "requestFramePermissions": []
+}
